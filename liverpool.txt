@@ -1,0 +1,38 @@
+===Database liverpool
+
+== Table structure for table players
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|firstname|varchar(50)|No|
+|secondname|varchar(50)|No|
+|position|varchar(50)|No|
+|age|int(50)|No|
+|nationality|varchar(50)|No|
+== Dumping data for table players
+
+|1|Alisson|Becker|Goalkeeper|28|Brazilian
+|2|Adrian|Castillo|Goalkeeper|34|Spanish
+|3|Trent|Alexander-Arnold|Right Back|22|English
+|4|Neco|Williams|Right Back|20|Welsh
+|5|Virgil|Van Dijk|Centre Back|29|Dutch
+|6|Joe|Gomez|Centre Back|23|English
+|7|Joel|Matip|Centre Back|29|Cameroonian
+|8|Nat|Phillips|Centre Back|24|English
+|9|Andy|Robertson|Left Back|27|Scottish
+|10|Kostas|Tsimikas|Left Back|24|Greek
+|11|Fabio (Fabinho)|Tavares|Centre Midfield|27|Brazilian
+|12|Jordan|Henderson|Centre Midfield|30|English
+|13|Naby|Keita|Centre Midfield|26|Guinean
+|14|Thiago|Alcantara|Centre Midfield|30|Spanish
+|15|Curtis|Jones|Centre Midfield|20|English
+|16|Gini|Wijnaldum|Centre Midfield|30|Dutch
+|17|Sadio|Mane|Left Wing|29|Senegalese 
+|18|Diogo|Jota|Left Wing|24|Portugese
+|19|Mohamed|Salah|Right Winger|28|Egyptian
+|20|Harvey|Elliott|Right Winger|18|English
+|21|Roberto|Firmino|Striker|29|Brazilian
+|22|Divock|Origi|Striker|25|Belgian
+== Table structure for table users
